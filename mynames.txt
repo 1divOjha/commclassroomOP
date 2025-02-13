@@ -1,3 +1,4 @@
 #my note 
+- making changes after pulling a request.
 - i am going to pull a request.
 
